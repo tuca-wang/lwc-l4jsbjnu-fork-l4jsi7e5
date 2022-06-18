@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tuca-wang.lwc-l4jsbjnu-fork-l4jsi7e5",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve IvGI2tbC6EKS2uQiCjLt --open"
+  }
+}
